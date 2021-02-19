@@ -1,0 +1,57 @@
+{
+  "name": "panzen",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.5.0",
+    "firebase": "^8.2.2",
+    "jquery": "^3.5.1",
+    "moment": "^2.29.1",
+    "node-sass": "^4.14.1",
+    "react": "^17.0.1",
+    "react-avatar-editor": "^11.1.0",
+    "react-datepicker": "^3.3.0",
+    "react-dom": "^17.0.1",
+    "react-file-drop": "^3.1.2",
+    "react-input-slider": "^6.0.0",
+    "react-loader-spinner": "^3.1.14",
+    "react-onclickoutside": "^6.9.0",
+    "react-paginate": "^6.5.0",
+    "react-redux": "^7.2.2",
+    "react-redux-firebase": "^3.9.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-select": "^3.1.1",
+    "react-switch": "^5.0.1",
+    "redux": "^4.0.5",
+    "redux-firestore": "^0.14.0",
+    "victory": "^35.4.3",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
